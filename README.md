@@ -1,2 +1,2 @@
 # Card
-https://cybervectorviii.github.io/Card/
+https://cybervectorviii.github.io/HTML-CSS-Clone-Card-Spotify/
